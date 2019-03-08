@@ -1,0 +1,12 @@
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\bin\Debug\netcoreapp2.0\webappcore-intermediate.deps.json
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\bin\Debug\netcoreapp2.0\webappcore-intermediate.runtimeconfig.json
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\bin\Debug\netcoreapp2.0\webappcore-intermediate.runtimeconfig.dev.json
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\bin\Debug\netcoreapp2.0\webappcore-intermediate.dll
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\bin\Debug\netcoreapp2.0\webappcore-intermediate.pdb
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.csprojAssemblyReference.cache
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.csproj.CoreCompileInputs.cache
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.AssemblyInfoInputs.cache
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.AssemblyInfo.cs
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.dll
+C:\Users\AL-JHOENIL WAHID\Desktop\webappcore-intermediate\webappcore-intermediate\obj\Debug\netcoreapp2.0\webappcore-intermediate.pdb

@@ -1,0 +1,31 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:30327/",
+      "sslPort": 44323
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:44323/",
+      "environmentVariables": {
+        "ConnectionStrings:DefaultConnection": "Server=(localdb)\\\\mssqllocaldb;Database=aspnet-webappcore_intermediate-53bc9b9d-9d6a-45d4-8429-2a2761773502;Trusted_Connection=True;MultipleActiveResultSets=true",
+        "TwitterKey": "SHOULD USE",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Logging:Level:Default": "Trace"
+      }
+    },
+    "webappcore_intermediate": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:30326/"
+    }
+  }
+}
